@@ -13,7 +13,7 @@ The goal is to make complex coverage data easier to explore and compare.
 - What forecast is shown for state-level uninsured-rate changes?
 
 ## Dashboard Preview
-![US Health Insurance Coverage Analysis Dashboard](images/health-insurance-dashboard.jpg)
+![US Health Insurance Coverage Analysis Dashboard](health-insurance-dashboard.jpg)
 
 ## Metrics Shown in the Screenshot
 | Metric | Displayed value |
