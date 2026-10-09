@@ -32,7 +32,7 @@ These labels and values are transcribed from the screenshot and have not been in
 - Top 10 states by average monthly tax credit in 2016
 
 ## Tools
-The screenshot appears to be a business-intelligence dashboard. Please confirm the exact tool used before treating Power BI or Excel as a verified project tool.
+The screenshot is an excel dashboard. 
 
 ## Business Relevance
 This dashboard provides a starting point for comparing insurance-related indicators across locations and time. Policy or public-health conclusions require verified source data, metric definitions, and an understanding of the forecasting method.
@@ -45,4 +45,3 @@ This dashboard provides a starting point for comparing insurance-related indicat
 
 ## Author
 **Miracle Maduabuchi**  
-[GitHub](https://github.com/miraclenagorom)
